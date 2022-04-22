@@ -29,7 +29,7 @@ The machine needs to be prepared. In CI this is done using `molecule/default/pre
   gather_facts: no
 
   roles:
-    - role: robertdebock.bootstrap
+    - role: buluma.bootstrap
 ```
 
 
@@ -44,7 +44,7 @@ The following roles are used to prepare a system. You can prepare your system in
 
 | Requirement | GitHub | GitLab |
 |-------------|--------|--------|
-|[robertdebock.bootstrap](https://galaxy.ansible.com/buluma/robertdebock.bootstrap)|[![Build Status GitHub](https://github.com/buluma/robertdebock.bootstrap/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/robertdebock.bootstrap/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/robertdebock.bootstrap/badges/master/pipeline.svg)](https://gitlab.com/buluma/robertdebock.bootstrap)|
+|[buluma.bootstrap](https://galaxy.ansible.com/buluma/bootstrap)|[![Build Status GitHub](https://github.com/buluma/ansible-role-bootstrap/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-bootstrap/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-bootstrap/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-bootstrap)|
 
 ## [Context](#context)
 
@@ -88,4 +88,4 @@ Apache-2.0
 
 ## [Author Information](#author-information)
 
-[Robert de Bock](https://buluma.github.io/)
+[Michael Buluma](https://buluma.github.io/)

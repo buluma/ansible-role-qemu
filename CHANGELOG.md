@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.1.1](https://github.com/buluma/ansible-role-qemu/tree/0.1.1) (2022-04-23)
+
+[Full Changelog](https://github.com/buluma/ansible-role-qemu/compare/0.1.0...0.1.1)
+
 ## [0.1.0](https://github.com/buluma/ansible-role-qemu/tree/0.1.0) (2022-04-22)
 
 [Full Changelog](https://github.com/buluma/ansible-role-qemu/compare/8a00c2a37bedd8dd29b743f4e3fdb1ff6bc48ce7...0.1.0)

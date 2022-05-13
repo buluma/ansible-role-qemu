@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-qemu/compare/0.1.1...HEAD)
 
+**Closed issues:**
+
+- Complete [\#1](https://github.com/buluma/ansible-role-qemu/issues/1)
+
 **Merged pull requests:**
 
 - Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.4 to 1.0.5 [\#2](https://github.com/buluma/ansible-role-qemu/pull/2) ([dependabot[bot]](https://github.com/apps/dependabot))

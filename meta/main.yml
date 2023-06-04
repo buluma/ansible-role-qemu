@@ -1,12 +1,11 @@
 ---
 galaxy_info:
-  author: Michael Buluma
-  namespace: buluma
+  author: buluma
   role_name: qemu
   description: Install qemu.
   license: Apache-2.0
-  company: none
-  min_ansible_version: "2.10"
+  company: ShadowNet
+  min_ansible_version: "2.12"
 
   platforms:
     - name: Alpine
@@ -17,14 +16,14 @@ galaxy_info:
         - Candidate
     - name: EL
       versions:
-        - 8
+        - "8"
     - name: Debian
       versions:
         - all
     - name: Fedora
       versions:
         - all
-    - name: OpenSUSE
+    - name: opensuse
       versions:
         - all
     - name: Ubuntu

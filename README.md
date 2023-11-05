@@ -2,9 +2,9 @@
 
 Install qemu.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-qemu/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-qemu/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-qemu/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-qemu)|[![quality](https://img.shields.io/ansible/quality/58883)](https://galaxy.ansible.com/buluma/qemu)|[![downloads](https://img.shields.io/ansible/role/d/58883)](https://galaxy.ansible.com/buluma/qemu)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-qemu.svg)](https://github.com/buluma/ansible-role-qemu/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-qemu.svg)](https://github.com/buluma/ansible-role-qemu/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-qemu.svg)](https://github.com/buluma/ansible-role-qemu/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-qemu/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-qemu/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-qemu/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-qemu)|[![downloads](https://img.shields.io/ansible/role/d/4811)](https://galaxy.ansible.com/buluma/qemu)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-qemu.svg)](https://github.com/buluma/ansible-role-qemu/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-qemu.svg)](https://github.com/buluma/ansible-role-qemu/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-qemu.svg)](https://github.com/buluma/ansible-role-qemu/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 

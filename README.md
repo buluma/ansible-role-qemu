@@ -1,10 +1,10 @@
-# [Ansible role qemu](#qemu)
+# Ansible role [qemu](https://galaxy.ansible.com/ui/standalone/roles/buluma/qemu/documentation)
 
 Install qemu.
 
-|GitHub|Version|Issues|Pull Requests|
-|------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-qemu/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-qemu/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-qemu.svg)](https://github.com/buluma/ansible-role-qemu/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-qemu.svg)](https://github.com/buluma/ansible-role-qemu/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-qemu.svg)](https://github.com/buluma/ansible-role-qemu/pulls/)|
+|GitHub|Version|Issues|Pull Requests|Downloads|
+|------|-------|------|-------------|---------|
+|[![github](https://github.com/buluma/ansible-role-qemu/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-qemu/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-qemu.svg)](https://github.com/buluma/ansible-role-qemu/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-qemu.svg)](https://github.com/buluma/ansible-role-qemu/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-qemu.svg)](https://github.com/buluma/ansible-role-qemu/pulls/)|[![Ansible Role](https://img.shields.io/ansible/role/d/buluma/qemu)](https://galaxy.ansible.com/ui/standalone/roles/buluma/qemu/documentation)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -85,13 +85,11 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [License](#license)
 
-[Apache-2.0](https://github.com/buluma/ansible-role-qemu/blob/master/LICENSE).
+[Apache-2.0](https://github.com/buluma/ansible-role-qemu/blob/master/LICENSE)
 
 ## [Author Information](#author-information)
 
-[buluma](https://buluma.github.io/)
+[Shadow Walker](https://buluma.github.io/)
 
-
-### [Special Thanks](#special-thanks)
 
 Template inspired by [Robert de Bock](https://github.com/robertdebock)

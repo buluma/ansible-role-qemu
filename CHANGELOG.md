@@ -1,14 +1,18 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-qemu/tree/HEAD)
+## [0.2.0](https://github.com/buluma/ansible-role-qemu/tree/0.2.0) (2024-01-02)
 
-[Full Changelog](https://github.com/buluma/ansible-role-qemu/compare/0.1.3...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-qemu/compare/0.1.3...0.2.0)
 
 **Closed issues:**
 
 - Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#12](https://github.com/buluma/ansible-role-qemu/issues/12)
 - Update action [\#11](https://github.com/buluma/ansible-role-qemu/issues/11)
 - rebuild action [\#10](https://github.com/buluma/ansible-role-qemu/issues/10)
+
+**Merged pull requests:**
+
+- Bump actions/checkout from 3 to 4 [\#15](https://github.com/buluma/ansible-role-qemu/pull/15) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [0.1.3](https://github.com/buluma/ansible-role-qemu/tree/0.1.3) (2023-12-24)
 

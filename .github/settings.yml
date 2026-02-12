@@ -5,4 +5,4 @@
 repository:
   description: Install qemu.
   homepage: https://buluma.github.io/
-  topics: qemu, ansible, molecule, tox, playbook
+  topics: qemu, ansible, molecule, playbook

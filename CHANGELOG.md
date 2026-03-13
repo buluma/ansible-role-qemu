@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-qemu/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-qemu/compare/24.3.31...HEAD)
+
+**Merged pull requests:**
+
+- Bump docker/setup-buildx-action from 3 to 4 [\#26](https://github.com/buluma/ansible-role-qemu/pull/26) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [24.3.31](https://github.com/buluma/ansible-role-qemu/tree/24.3.31) (2024-03-31)
 
 [Full Changelog](https://github.com/buluma/ansible-role-qemu/compare/0.3.0...24.3.31)

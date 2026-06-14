@@ -10,7 +10,7 @@
       Alpine: qemu-system-x86_64
       Debian: qemu-system-x86_64
     qemu_verify_command:
-      "{{ _qemu_verify_command[ansible_facts.os_family] | default(_qemu_verify_command['default'])
+      "{{ _qemu_verify_command[ansible_facts['os_family']] | default(_qemu_verify_command['default'])
       }}"
 
   tasks:

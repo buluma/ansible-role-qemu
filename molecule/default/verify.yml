@@ -6,19 +6,15 @@
 
   vars:
     _qemu_verify_command:
-    changed_when: false
       default: qemu-kvm
       Alpine: qemu-system-x86_64
       Debian: qemu-system-x86_64
-    qemu_verify_command:
-    changed_when: false
-      "{{ _qemu_verify_command[ansible_facts['os_family']] | default(_qemu_verify_command['default'])
-      }}"
+    qemu_verify_command: "{{ _qemu_verify_command[ansible_facts['os_family']] | default(_qemu_verify_command['default']) }}"
 
   tasks:
     - name: test qemu-kvm
       ansible.builtin.command:
-      changed_when: false
         cmd: "{{ qemu_verify_command }} --version"
+      changed_when: false
       environment:
         PATH: "/bin:/sbin:/usr/bin:/usr/sbin:/usr/libexec"
